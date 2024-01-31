@@ -1,0 +1,13 @@
+Django==3.2.7
+djangorestframework==3.12.4
+django-environ==0.7.0 # it allows to configure django environment variables
+django-filter==21.1
+django-autoslug==1.9.8 # automated slug-field for django
+django-countries==7.2.1 # models or fixture containing top countries data
+Pillow==8.3.2
+django-phonenumber-field==5.2.0 # valid phone number
+phonenumbers==8.12.33 
+psycopg2-binary==2.9.1 # postgresql database
+flake8==3.9.2 # format indentation
+black==21.6b0 # code format
+isort==5.9.3 # import sorting
